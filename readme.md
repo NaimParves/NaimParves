@@ -28,9 +28,9 @@ I am passionate about leveraging technology to solve real-world problems and hel
 <!-- Github Stats -->
 
 <h1 align="center">Github Stats</h1>
-    <img alt="syedfaysel :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=syedfaysel&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" />
-    <img alt="syedfaysel :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedfaysel&layout=compact&count_private=true&theme=blue-green&hide_border=true">
-    <img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=syedfaysel&theme=blue-green&hide_border=true"/>
+    <img alt="syedfaysel :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=NaimParves&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" />
+    <img alt="syedfaysel :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaimParves&layout=compact&count_private=true&theme=blue-green&hide_border=true">
+    <img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=NaimParves&theme=blue-green&hide_border=true"/>
 
 <br>
 
